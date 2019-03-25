@@ -1,0 +1,18 @@
+body,
+body * {
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
+.hero-backround {
+    background-color: #75c675;
+}
+
+.hero-content {
+    width: 500px;
+    margin: 40px calc ( (100% - 500px) / 2 ) 20px;
+    background-color: blueviolet;
+    display: inline-block;
+}
