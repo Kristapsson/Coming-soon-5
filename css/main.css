@@ -11,8 +11,41 @@ body * {
 }
 
 .hero-content {
+    display: inline-block;
     width: 500px;
     margin: 40px calc ( (100% - 500px) / 2 ) 20px;
     background-color: blueviolet;
-    display: inline-block;
 }
+
+    #hero .logo {
+
+    }
+
+    #hero .h1 {
+
+    }
+
+    #hero p {
+
+    }
+
+    #hero .clock {
+
+    }
+        #hero .clock > clock-block {
+            #hero .clock > clock-block > .value {
+
+            }
+            #hero .clock > clock-block > .title {
+
+            }
+
+    #hero .form {
+
+    }
+        #hero .form > input {
+
+        }
+        #hero form > .btn {
+
+        }
