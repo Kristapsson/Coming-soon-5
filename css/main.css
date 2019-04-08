@@ -19,8 +19,6 @@ body {
     width: 500px;
     margin: 40px calc( (100% - 500px) / 2 ) 20px;
     text-align: center;
-
-    #hero hero.content > 
 }
     #hero .logo {
         display: inline-block;
@@ -93,3 +91,9 @@ body {
         padding: 10px 25px;
         box-shadow: -2px 5px 10px darkred;
         }
+
+.container {
+    display: inline-block;
+    width: 1000px;
+    margin-left: calc(50% - 500px);
+}
